@@ -70,3 +70,6 @@ table {
   padding: 0px 20px;
 }
 
+.movie-text {
+  text-align: justify;
+}
